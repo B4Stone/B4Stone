@@ -15,8 +15,8 @@ My drive to learn more about computer science has led me to develop a passion fo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/B4Stone/Detection-Lab/tree/main">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/B4Stone/Detection-Lab/tree/main">Detection Lab</a>|
 | Bug Bounty Hunting                            | HackerOne Profile|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -56,6 +56,6 @@ My drive to learn more about computer science has led me to develop a passion fo
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/B4Stone/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 
