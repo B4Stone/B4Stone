@@ -3,7 +3,7 @@
 
 
 
-I am a seasoned operations manager who has developed a niche for detecting and remediating issues in technology for my teams in the past. This call to serve has driven me to further my knowledge of the computer science and share my process.
+I am a seasoned operations manager who has developed a skill set for detecting and remediating issues in technology for my teams. This call to serve has driven me to further my knowledge of the computer science and share my process along the way.
 
 ## Objective
 
