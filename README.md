@@ -3,7 +3,7 @@
 
 
 
-I am a seasoned operations manager who has developed a niche for detecting and remediating issues in technology.
+I am a seasoned operations manager who has developed a niche for detecting and remediating issues in technology for my teams in the past. This call to serve has driven me to further my knowledge of the computer science and share my process.
 
 ## Objective
 
@@ -48,10 +48,11 @@ My drive to learn more about computer science has led me to develop a passion fo
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/dfd357fe-7e05-4b4a-8d3c-a1b0e8c8fd1e/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-006400?style=for-the-badge&logo=isc2&logoColor=white" />
+</a>
+
+
 </div>
 
 ## Projects
