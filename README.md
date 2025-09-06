@@ -1,14 +1,14 @@
-# Hello, I'm Brandon Stone
+# Brandon Stone
 <a href="https://linkedin.com/in/brandon-stone-974775283"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
-I am a seasoned operations manager who has developed a skill set for detecting and remediating issues in technology for my teams. This call to serve has driven me to further my knowledge of the computer science and share my process along the way.
+Transforming a passion for cyber security to a professional skill set, one project at a time.
 
 ## Objective
 
 
-My drive to learn more about computer science has led me to develop a passion for cybersecurity, and network administration. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Through my 10-year career as an operations manager I have realized a love of solving issues with tech devices. This inspired me to learn more about computer science and has led me to develop a passion for cyber security, and network management. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
