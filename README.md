@@ -46,22 +46,10 @@ Through my 10-year career as an operations manager I have realized a love of sol
 
 ## Certifications
 
-<div>
-<a href="https://www.credly.com/badges/dfd357fe-7e05-4b4a-8d3c-a1b0e8c8fd1e/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-006400?style=for-the-badge&logo=isc2&logoColor=white" />
-</a>
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-006400?style=for-the-badge&logo=isc2&logoColor=white)](https://www.credly.com/badges/dfd357fe-7e05-4b4a-8d3c-a1b0e8c8fd1e/public_url)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/5ca4eed0-1e0a-473e-a55c-91289c212fcf/public_url)
+[![Google Cybersecurity](https://img.shields.io/badge/Coursera-Google%20Cybersecurity-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/f0c4f5cc57a4f00d10bba9a227cf3e14)
 
-<a href="https://www.credly.com/badges/your-securityplus-badge-id/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-
-<a href="https://coursera.org/share/f0c4f5cc57a4f00d10bba9a227cf3e14" target="_blank">
-  <img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
-</a>
-
-
-
-</div>
 
 ## Projects
 - <a href="https://github.com/B4Stone/Detection-Lab/tree/main">Detection Lab</a>
